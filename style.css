@@ -1,0 +1,34 @@
+body {
+  background: #ffffff;
+  color: #212529;
+  padding: 1.5rem;
+}
+
+.hint {
+  color: #aaaaaa;
+}
+
+caption {
+  color: #aaaaaa;
+}
+
+.badge-type {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
+
+.badge-functional {
+  background: #cfe8ff;
+  color: #8fb8e0;
+}
+
+.badge-non-functional {
+  background: #ffe3b3;
+  color: #e0a85a;
+}
+
+#nfr-warning {
+  color: #f0c040;
+}
